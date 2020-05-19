@@ -1,4 +1,4 @@
-# Sigmoid-Neuron-Mode
+# Sigmoid-Neuron-Model
 
 Learning and Implementing the Sigmoid Neuron Model from Scratch.
 
