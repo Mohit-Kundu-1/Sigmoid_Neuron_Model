@@ -7,4 +7,4 @@ A sigmoid function is a mathematical function having a characteristic "S"-shaped
 ![](image.png)
 
 
-In this repository, sigmoid function is used as the basis to make a binary classification model to classify the 
+In this repository, sigmoid function is used as the basis to make a binary classification model to classify the ratings of different mobiles.
